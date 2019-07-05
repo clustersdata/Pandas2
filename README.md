@@ -210,9 +210,3 @@ df.ix['Arizona', 2]
 # 在“deaths”列中选择第三个单元格
 df.ix[2, 'deaths']
 25
-
---------------------- 
-作者：ls秦 
-来源：CSDN 
-原文：https://blog.csdn.net/qq_38328378/article/details/81166518 
-版权声明：本文为博主原创文章，转载请附上博文链接！
